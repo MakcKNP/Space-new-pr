@@ -1,0 +1,17 @@
+.bg{
+   background-color: rgba(43, 39, 39, 0.404);
+   width: auto;
+   height: auto;   
+}
+.header{
+   background-color: rgb(43, 39, 39);
+   height: 700px; 
+   width: 1300px;
+   
+   
+}
+.footer{
+    background-color: rgba(44, 27, 27, 0.404);
+    height: 700px;
+    width: 1300px;
+}
